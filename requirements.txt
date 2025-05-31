@@ -1,0 +1,9 @@
+langchain
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+transformers
+huggingface-hub
+accelerate
+pypdf
+ipykernel
