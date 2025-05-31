@@ -15,7 +15,8 @@ This project uses the [LLaMA 2 7B Chat GGUF model](https://huggingface.co/TheBlo
 
 
 ### Note
-This file is not included in the repo due to its size.
+1. This model file is not included in the repo due to its size.
+2. Resume pdf file is not included in the repo. Please utilize your own resume/pdf.
 
 
 ## Features
